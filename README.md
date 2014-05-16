@@ -1,4 +1,4 @@
-# Overview
+ # Overview
 
 TheMap Repository contains:
 
@@ -14,7 +14,7 @@ Links to the RoadMap.md file in corresponding distributed repositories of collab
 
 * Kantara: 
 
-* MIT: https://github.com/eCitizen/TheMap/RoadMap.md (coming soon)
+* MIT: https://github.com/eCitizen/TheMap/blob/master/RoadMap.md (LIVE)
 
 Coming Soon...
 
@@ -28,8 +28,8 @@ Coming Soon...
 * Link to Kantara xyz file... etc
 
 ## Open Notice Initiative, 
-http://opennotice.org
-Point of Contact: Mark Lizar
+* http://opennotice.org
+* Point of Contact: Mark Lizar
 
 * Link to OpenNotice files... etc
 
